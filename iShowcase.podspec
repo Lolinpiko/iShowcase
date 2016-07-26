@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.screenshots      = "https://raw.githubusercontent.com/rahuliyer95/iShowcase/master/assets/1.png", "https://raw.githubusercontent.com/rahuliyer95/iShowcase/master/assets/2.png", "https://raw.githubusercontent.com/rahuliyer95/iShowcase/master/assets/3.png", "https://raw.githubusercontent.com/rahuliyer95/iShowcase/master/assets/4.png", "https://raw.githubusercontent.com/rahuliyer95/iShowcase/master/assets/5.png"
   s.license          = 'MIT'
   s.author           = { "rahuliyer95" => "rahuliyer573@gmail.com" }
-  s.source           = { :git => "https://github.com/rahuliyer95/iShowcase.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/Lolinpiko/iShowcase.git", :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/RahulSIyer'
 
   s.platform     = :ios, '7.0'
